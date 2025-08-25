@@ -4,7 +4,7 @@ Backend API cho React app **Valorant Agent & Loadout Explorer**, build bằng [E
 
 ---
 
-## 🚀 Features
+ Features
 - **GET /agents** – Lấy danh sách agents (filter/search)
 - **GET /weapons** – Lấy danh sách weapons (filter/maxCost/search)
 - **GET /health** – Health check
@@ -14,7 +14,7 @@ Backend API cho React app **Valorant Agent & Loadout Explorer**, build bằng [E
 
 ---
 
-## 🛠️ Setup Local
+ Setup Local
 ```bash
 # Clone project
 git clone https://github.com/<your-username>/valorant1-api.git
